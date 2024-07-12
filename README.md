@@ -2,6 +2,10 @@
 
 This Tampermonkey script adds an option to open YouTube videos in FreeTube directly from the YouTube home tab.
 
+DEMO
+
+https://github.com/user-attachments/assets/fa84f115-bf7a-467b-a3bf-0be95f495a14
+
 ## Features
 
 - Adds a "Open in FreeTube" button next to each video link on the YouTube home page.
